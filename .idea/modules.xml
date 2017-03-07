@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zvooq-web.iml" filepath="$PROJECT_DIR$/.idea/modules/zvooq-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zvooq-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zvooq-web_main.iml" group="zvooq-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zvooq-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zvooq-web_test.iml" group="zvooq-web" />
+    </modules>
+  </component>
+</project>
